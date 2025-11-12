@@ -12,6 +12,7 @@ transition: slide-left
 mdc: true
 duration: 60min
 hideInToc: true
+routerMode: hash
 ---
 
 # AI a Vibe-Coding
@@ -1684,7 +1685,7 @@ layout: center
 class: text-center
 ---
 
-# Děkuji za pozornost!
+## Děkuji za pozornost!
 
 <div class="text-3xl mt-12 space-y-6">
 
